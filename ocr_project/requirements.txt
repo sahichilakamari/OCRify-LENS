@@ -1,0 +1,10 @@
+streamlit
+pytesseract
+pdf2image
+Pillow
+opencv-python
+tiktoken
+python-dotenv
+numpy
+googletrans==4.0.0-rc1
+langchain>=0.1.13,<0.2.0
